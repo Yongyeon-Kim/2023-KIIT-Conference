@@ -86,10 +86,6 @@ python models/xgb_model.py
 
 ## 실험 결과
 
-### 모델 구조
-![Architecture](images/architecture.png)
-
-### 결과
 ![Result](images/result.png)
 
 ## 라이센스
